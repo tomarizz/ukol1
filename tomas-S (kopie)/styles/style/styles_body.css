@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    min-height: 100;
+    display: flex;
+    flex-direction: column;
+    flex : 1;
+}
+    
+footer{
+    color: #fdfdfd;
+    position: fixed;
+    bottom: 0;
+}
